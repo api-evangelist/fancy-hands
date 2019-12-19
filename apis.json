@@ -1,0 +1,69 @@
+{
+    "name": "Fancy Hands",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-19-pm.png",
+    "tags": [
+        "api provider",
+        "employees",
+        "have api",
+        "help",
+        "merchants",
+        "profile",
+        "tasks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fancy-hands\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fancy Hands",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-19-pm.png",
+            "humanURL": "https:\/\/www.fancyhands.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fancy-hands-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fancy-hands-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.fancyhands.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.fancyhands.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/fancy-hands"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.fancyhands.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "api@fancyhands.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fancyhands"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.fancyhands.com\/"
+        }
+    ]
+}
